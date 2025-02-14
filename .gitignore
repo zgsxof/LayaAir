@@ -1,5 +1,4 @@
-bin/res
-bin/tsc
+bin
 node_modules
 .cache
 .vscode/chrome
